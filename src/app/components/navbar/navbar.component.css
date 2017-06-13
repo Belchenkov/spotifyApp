@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css?family=Pangolin');
+
+.navbar-inverse .navbar-brand, .navbar-inverse .navbar-toggler {
+    color: #fff;
+    font-family: 'Pangolin', cursive;
+    font-size: 2.5rem;
+}
